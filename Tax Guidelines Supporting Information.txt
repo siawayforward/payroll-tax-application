@@ -1,0 +1,18 @@
+Rates for tax calculations for UT and AZ - Nevada does not have state withholding
+https://www.tax-brackets.org/arizonataxtable
+https://www.tax-brackets.org/utahtaxtable
+
+Federal withholding table rates
+https://www.irs.gov/pub/irs-pdf/n1036.pdf 2018
+https://www.irs.gov/pub/irs-pdf/p15_17.pdf - using this because we have no state rates for 2018 yet to make sure everything is compatible
+
+Federal Withholding:
+page 43: percentage method, tax withholding steps
+Use these steps to figure the income tax to withhold under
+the percentage method.
+1. Multiply one withholding allowance for your payroll
+period (see Table 5, later) by the number of allowances
+the employee claims.
+2. Subtract that amount from the employee's wages.
+3. Determine the amount to withhold from the appropriate
+table on pages 45–46.
