@@ -1,0 +1,5 @@
+Welcome to the payroll tax calculator!
+Our current edition is for employees who work in the Nevada-Arizona-Utah tristate area. 
+If you are in the middle working class, and making up to $100,000, this is the application for you!
+Please give us a call if you need help at 800-000-0000
+
